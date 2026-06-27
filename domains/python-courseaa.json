@@ -1,1 +1,8 @@
-
+{
+    "owner": {
+        "username": "hackermalade"
+    },
+    "records": {
+        "CNAME": "python-courseaa.org"
+    }
+}
